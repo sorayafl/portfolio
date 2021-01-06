@@ -1,0 +1,37 @@
+
+
+section {
+	padding-left: 16em;
+	background-color:#feebd2;
+	height: 100%;
+}
+
+nav {
+	position: absolute;
+	background-image: url(images/fond.JPG);
+	height: 180%;
+}
+
+h1 {
+	color: White;
+	font-family: Georgia, serif;
+	font-weight: bold;
+	font-size: 3em;
+}
+
+li {
+	color: White;
+	font-family: Bookman, URW Bookman L, sans-serif;
+	list-style-type: none;
+}
+
+a:link {
+	color: white;
+	text-decoration: none;
+	text-align:left;
+
+}
+
+h2 {
+	font-family: URW Chancery L, cursive;
+}
