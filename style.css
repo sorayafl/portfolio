@@ -32,6 +32,15 @@ a:link {
 
 }
 
+
 h2 {
 	font-family: URW Chancery L, cursive;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
 }
